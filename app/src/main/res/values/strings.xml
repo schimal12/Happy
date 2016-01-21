@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Happy</string>
+    <string name="Good">Good Kate of the Castle</string>
+    <string name="Push">Push Me</string>
+    <string name="your_name">Give me Your Name</string>
+    <string name="next">Continue</string>
+    <string name="Nombre">Sebastian Chimal M</string>
+    <string name="Bienvenido">Welcome</string>
+    <string name="Entrevistas">Interviews</string>
+    <string name="hName">Your Money is</string>
+    <string name="falta_texto">Escribe algo</string>
+    <string name="BotonCalcula">Calcula</string>
+    <string name="USD">Your money in USD</string>
+    <string name="Narco">Your Narco Level</string>
+    <string name="title_activity_calculate_sub">CalculateSubActivity</string>
+    <string name="Calculate2">Calculate</string>
+    <string name="Close">Close</string>
+</resources>
