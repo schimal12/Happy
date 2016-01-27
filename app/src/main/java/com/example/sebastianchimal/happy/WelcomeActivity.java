@@ -36,7 +36,7 @@ public class WelcomeActivity extends AppCompatActivity {
         Intent it = new Intent(this,CalculateSubActivity.class);
         Double cantidad = Double.parseDouble(moneyEditText.getText().toString());
 
-        it.putExtra("Cantidad",cantidad);
+        it.putExtra("Cantidad", cantidad);
         startActivityForResult(it, VALOR_SUBACTIVIDAD);
 
     }
